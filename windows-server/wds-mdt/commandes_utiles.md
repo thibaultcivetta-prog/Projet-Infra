@@ -1,9 +1,9 @@
 # COMMANDES UTILES
 
 ## DECHIFFREMENT DD
-> Vérification DECHIFFREMENT
+### Vérification DECHIFFREMENT
 manage-bde -status
-> DECHIFFREMENT
+### DECHIFFREMENT
 manage-bde -off C:
 
 A saisir sur Powershell
