@@ -2,9 +2,11 @@
 
 ## Objectif
 
-Mettre en place un serveur Git auto-hébergé sur Debian afin de centraliser et documenter mes projets techniques.
+- Mettre en place un serveur Git auto-hébergé sur Debian.
 
-Gitea est utilisé comme dépôt principal pour les fichiers, scripts et procédures associés au projet d’infrastructure.
+- permettre de centraliser et documenter mes projets techniques.
+
+- Gitea est utilisé comme dépôt principal, il se synchronise automatiquement avec GitHub.
 
 ## Étapes
 
