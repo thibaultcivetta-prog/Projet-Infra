@@ -2,25 +2,30 @@
 
 ## Objectif
 
-Mettre en place un serveur Git auto-hébergé sur Debian.
-Il permet de documenter mes projets.
-Il se synchronise avec Gitgub.
+Mettre en place un serveur Git auto-hébergé sur Debian afin de centraliser et documenter mes projets techniques.
+
+Gitea est utilisé comme dépôt principal pour les fichiers, scripts et procédures associés au projet d’infrastructure.
+
+---
 
 ## Environnement
 
+L’installation repose sur les éléments suivants :
+
 - Debian
-- PostgreSQL
-- Nginx
 - Gitea
-- Domaine interne : `tssr.lab`
+- PostgreSQL
+- Git
+- systemd
 
-## Installation
+Gitea est installé directement sur le serveur Debian sous forme de binaire.
 
-Le binaire Gitea a été installé dans :
+---
+
+## Installation des prérequis
+
+Les paquets nécessaires sont installés sur Debian :
 
 ```bash
-/usr/local/bin/gitea
-
-
-Création d'un utilisateur > Git
-
+sudo apt update
+sudo apt install git postgresql -y
