@@ -10,44 +10,31 @@ GitHub est utilisé comme interface internet pour présenter mon travail.
 Gitea reste la source principale.
 GitHub sert de miroir externe et de vitrine publique du projet.
 
-Création du dépôt GitHub
+### Création du dépôt GitHub
 Un dépôt vide est créé sur GitHub.
 
 Aucun README ou licence n'est créé côté GitHub.
 
-Création du token GitHub
+### Création du token GitHub
 
 Un Personal Access Token est créé sur GitHub.
 Le token est limité au dépôt concerné.
 
-Permission nécessaire :
+### Permission nécessaire :
 
 Contents : Read and write
 
 Le token est utilisé comme moyen d'authentification depuis Gitea.
 
-Configuration du miroir
+### Configuration du miroir
 Dans les paramètres du dépôt Gitea :
 Paramètres
 → Miroirs
 → Ajouter un miroir push
 
-URL du dépôt distant :
+#### URL du dépôt distant :
 Gitea reste la source principale.
 GitHub sert de miroir externe et de vitrine publique du projet.
-Création du dépôt GitHub
-Un dépôt vide est créé sur GitHub.
-Exemple :
-Projet-Infrastructure-IT
-
-Aucun README, .gitignore ou licence n'est créé côté GitHub afin d'éviter les divergences initiales.
-Création du token GitHub
-Un Personal Access Token est créé sur GitHub.
-Le token est limité au dépôt concerné.
-Permission nécessaire :
-Contents : Read and write
-
-Le token est utilisé comme moyen d'authentification depuis Gitea.
 
 ## Configuration du miroir
 
@@ -63,13 +50,13 @@ https://github.com/<utilisateur>/<depot>.git
 Dans la section Autorisation :
 
 Utilisateur : compte GitHub
-Mot de passe : Personal Access Token
+Mot de passe : Token
 
 L'option suivante est activée :
 
 Synchroniser quand les révisions sont soumises
 
-Test
+## Test
 Une synchronisation manuelle est lancée depuis Gitea.
 Le dépôt GitHub doit alors contenir les mêmes fichiers et commits que Gitea.
 
