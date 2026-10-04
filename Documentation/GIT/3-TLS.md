@@ -1,2 +1,3 @@
-[← Retour à l'installation](../1-installation.md)
+[← Retour au parametrage](../2-parametrage.md)
+
 [← Retour](../README.md)
