@@ -24,12 +24,16 @@ L'utilisateur utilisé par Gitea est donc :
 
 Création des répertoires
 Création des dossiers nécessaires :
-``` sudo mkdir -p /var/lib/gitea/{custom,data,log}
-sudo mkdir -p /etc/gitea ```
+```
+sudo mkdir -p /var/lib/gitea/{custom,data,log}
+sudo mkdir -p /etc/gitea
+```
 
 Répertoires principaux :
-```/var/lib/gitea
-/etc/gitea ```
+```
+/var/lib/gitea
+/etc/gitea
+```
 
 Le premier contient les données de fonctionnement de Gitea.
 Le second contient la configuration de l'application.
