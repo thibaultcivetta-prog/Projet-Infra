@@ -27,7 +27,7 @@ Le projet est organisé autour de 5 grands domaines.
 - [Linux](Systemes/Linux/README.md)
   - Debian
       - Nginx / TLS
-      - [GITEA / GitHub](Documentation/README.md)
+      - [GITEA / GitHub](Documentation/README.md) - installation, paramétrzge, TLS? mirroring
       - Fog
 
 ### 2 - Sécurisation du réseau
