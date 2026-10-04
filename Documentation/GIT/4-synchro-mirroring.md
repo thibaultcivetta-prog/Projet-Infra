@@ -36,19 +36,6 @@ Paramètres
 Gitea reste la source principale.
 GitHub sert de miroir externe et de vitrine publique du projet.
 
-## Configuration du miroir
-
-Dans les paramètres du dépôt Gitea :
-Paramètres
-→ Miroirs
-→ Ajouter un miroir push
-
-URL du dépôt distant :
-
-https://github.com/<utilisateur>/<depot>.git
-
-Dans la section Autorisation :
-
 Utilisateur : compte GitHub
 Mot de passe : Token
 
