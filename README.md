@@ -27,7 +27,7 @@ Le projet est organisé autour de 5 grands domaines.
 - [Linux](Systemes/Linux/README.md)
   - Debian
       - Nginx / TLS
-      - GITEA / GitHub
+      - [GITEA / GitHub](Documentation/Git/README.md)
       - Fog
 
 ### 2 - Sécurisation du réseau
@@ -39,7 +39,7 @@ Le projet est organisé autour de 5 grands domaines.
 
 ### 3 - Cybersécurité
 
-    - [Cybersécurité](Cybersécurite/README.md)
+- [Cybersécurité](Cybersécurite/README.md)
 
 ### 4 - Intelligence artificielle
 
