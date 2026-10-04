@@ -15,17 +15,23 @@ Le binaire est téléchargé depuis le site officiel de Gitea puis placé dans l
 ```
 ## Attribution des droits d’exécution
 
+```
 sudo chmod +x /usr/local/bin/gitea
+```
 
 ## Vérification de l’installation
 
 La présence et le bon fonctionnement du binaire sont vérifiés avec :
 
+```
 gitea --version
+```
 
 Résultat obtenu :
 
+```
 Gitea version 28.0.0
+```
 
 Cette commande permet de confirmer que :
 - le binaire est correctement installé ;
