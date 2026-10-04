@@ -17,11 +17,11 @@ Mettre en pratique l'installation, la configuration et l'administration d'une in
 
 #### windows
 
-- Windows](Systemes/windows-server/readme.md)
-- Windows Server 2022
-- Active Directory
-- DNS
-- DHCP
+- [Windows](Systemes/windows-server/readme.md)
+    - Windows Server 2022
+    - Active Directory
+    - DNS
+    - DHCP
 
 - WDS / MDT
 
