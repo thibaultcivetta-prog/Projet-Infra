@@ -53,10 +53,10 @@ sudo systemctl start gitea
 
 Commandes utiles
 Redémarrer Gitea :
-sudo systemctl restart gitea
+``` sudo systemctl restart gitea ```
 
 Vérifier son état :
-sudo systemctl status gitea
+``` sudo systemctl status gitea ```
 
 Résultat
 Gitea fonctionne comme service système et peut démarrer automatiquement avec Debian.
