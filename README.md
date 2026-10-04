@@ -19,7 +19,7 @@ Le projet est organisé autour de 5 grands domaines.
   - Active Directory
   - DNS
   - DHCP
-  - WDS / MDT
+  - [Déploiement postes via WDS / MDT](Systemes/windows-server/wds-mdt/README.md)
   - Windows 11 Pro
 
 #### Linux
@@ -34,7 +34,7 @@ Le projet est organisé autour de 5 grands domaines.
 
 - [Sécurisation](Securisation_Reseau/README.md)
   - Nginx
-  - pfSense
+  - [pfSense](Securisation_Reseau/pfSense/README.md)
   - TLS / HTTPS
 
 ### 3 - Cybersécurité
