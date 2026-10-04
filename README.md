@@ -14,7 +14,7 @@ Le projet est organisé autour de 4 grands domaines.
 
 #### Windows
 
-- [Windows Server](Systemes/windows-server/README.md)
+- [Windows Server](Systemes/Windows-server/README.md)
   - Windows Server 2022
   - Active Directory
   - DNS
