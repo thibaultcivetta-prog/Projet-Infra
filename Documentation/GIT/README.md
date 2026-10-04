@@ -10,3 +10,4 @@ Documentation de l'installation et de l'utilisation de Gitea dans le projet d'in
 4. [Synchronisation et mirroring GitHub](4-synchro-mirroring.md)
 5. [Liens utiles](5-liens.md)
 6. [Commandes utiles](6-commandes.md)
+7. [← Retour](../README.md)
