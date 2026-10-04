@@ -38,12 +38,12 @@ Le projet est organisé autour de 4 grands domaines.
 
     - [Cybersécurité](Cybersécurite/README.md)
 
-### 3 - Intelligence artificielle
+### 4 - Intelligence artificielle
 
 - [Intelligence artificielle](Intelligence_artificielle/README.md)
   - LM Studio
 
-### 4 - Documentation
+### 5 - Documentation
 
 - [Documentation](Documentation/README.md)
   - Gitea et GitHub
