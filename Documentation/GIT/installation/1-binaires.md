@@ -15,3 +15,38 @@ Le binaire est téléchargé depuis le site officiel de Gitea puis placé dans l
 ```
 ## Attribution des droits d’exécution
 
+sudo chmod +x /usr/local/bin/gitea
+
+## Vérification de l’installation
+
+La présence et le bon fonctionnement du binaire sont vérifiés avec :
+
+gitea --version
+
+Résultat obtenu :
+
+Gitea version 28.0.0
+
+Cette commande permet de confirmer que :
+- le binaire est correctement installé ;
+- il est exécutable ;
+- il est accessible depuis le système ;
+- la version installée est connue.
+
+## Emplacement du binaire
+Le choix de /usr/local/bin/ permet de conserver Gitea dans un emplacement standard pour les applications installées manuellement.
+Cela permet également d’appeler simplement :
+gitea
+
+sans avoir à préciser le chemin complet à chaque commande.
+
+## Résultat
+Le binaire Gitea est installé et exécutable sur Debian.
+À ce stade, l’application n’est pas encore configurée.
+
+## Les étapes suivantes concernent notamment :
+- la création de la base PostgreSQL ;
+- la création de l’utilisateur système ;
+- la préparation des répertoires ;
+- l’attribution des droits ;
+- la création du service systemd.
