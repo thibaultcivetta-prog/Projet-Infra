@@ -6,27 +6,31 @@ Projet personnel d'administration systèmes et réseaux.
 
 
 
-\## Objectifs
-
-
+## Objectifs
 
 Mettre en pratique l'installation, la configuration et l'administration d'une infrastructure complète.
 
+## Environnement
 
+4 grands domaines :
 
-\## Environnement
+### 1- Systèmes :
 
+#### Windows 
 
+- Windows Server 2022
 
-\- Windows Server 2022
-
-\- Active Directory
+\-.0e Directory
 
 \- DNS
 
 \- DHCP
 
 \- WDS / MDT
+
+#### Linux
+
+### 2 - Securisation du réseau
 
 \- Windows 11
 
@@ -41,6 +45,13 @@ Mettre en pratique l'installation, la configuration et l'administration d'une in
 \- pfSense
 
 \- TLS / HTTPS
+
+### 3 - Intelligence artificielle
+
+### 4 - Documetation
+
+- Gitea et Github
+- WikiJS
 
 
 
