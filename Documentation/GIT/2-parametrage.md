@@ -12,3 +12,4 @@ Configurer Gitea pour son utilisation dans l'infrastructure du projet.
 4. [Configuration des ports et services](parametrage/4-ports-services.md)
 5. [Configuration DNS](parametrage/5-dns.md)
 6. [Création des dépôts et organisation des projets](parametrage/6-depots-tests.md)
+7. [← Retour](../README.md)
