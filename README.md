@@ -19,7 +19,7 @@ Le projet est organisé autour de 5 grands domaines.
   - Active Directory
   - DNS
   - DHCP
-  - [Déploiement postes via WDS / MDT](Systemes/windows-server/wds-mdt/README.md)
+  - [Déploiement postes via WDS / MDT](Systemes/Windows-server/wds-mdt/README.md)
   - Windows 11 Pro
 
 #### Linux
