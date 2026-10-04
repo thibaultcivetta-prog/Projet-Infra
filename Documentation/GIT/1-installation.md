@@ -6,26 +6,12 @@ Mettre en place un serveur Git auto-hébergé sur Debian afin de centraliser et 
 
 Gitea est utilisé comme dépôt principal pour les fichiers, scripts et procédures associés au projet d’infrastructure.
 
+## Étapes
+
+1. [Installation des binaires](installation/1-binaires.md)
+2. [Installation et préparation de PostgreSQL](installation/2-Postgresql.md)
+3. [Création de l'utilisateur système et des répertoires](installation/3-utilisateur-repertoires.md)
+4. [Gestion des droits](installation/4-droits.md)
+5. [Création du service systemd](installation/5-services.md)
+6. [Vérifications](installation/6-tests.md)
 ---
-
-## Environnement
-
-L’installation repose sur les éléments suivants :
-
-- Debian
-- Gitea
-- PostgreSQL
-- Git
-- systemd
-
-Gitea est installé directement sur le serveur Debian sous forme de binaire.
-
----
-
-## Installation des prérequis
-
-Les paquets nécessaires sont installés sur Debian :
-
-```bash
-sudo apt update
-sudo apt install git postgresql -y
