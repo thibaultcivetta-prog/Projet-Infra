@@ -13,9 +13,9 @@ Mettre en pratique l'installation, la configuration et l'administration d'une in
 
 4 grands domaines :
 
-### 1- Systèmes :
+### 1- Systèmes
 
-#### [Windows}(Systemes/windows-server/readme.md)
+#### [Windows](Systemes/windows-server/readme.md)
 
 - Windows Server 2022
 
