@@ -1,19 +1,23 @@
+# Sécurisation réseau avec pfSense
+
 ## Objectif
 
-Installer et configurer pfSense comme passerelle du LAB.
+Mettre en place une passerelle sécurisée pour le LAB afin de contrôler, filtrer et segmenter les flux réseau.
 
 ## Travaux réalisés
 
 - Installation de pfSense
-- Configuration WAN / LAN
-- Adresse LAN : 192.168.60.1/24
-- Intégration avec le DHCP Windows Server
-- Tests de connectivité
+- Configuration des interfaces WAN / LAN
+- Configuration de la passerelle LAN
+- Intégration avec le serveur DHCP Windows
+- Tests de connectivité entre les différents équipements
 
-## À faire
+## Fonctions de sécurité prévues
 
-- Règles pare-feu
+- Règles de pare-feu
 - NAT
 - VPN
 - DMZ
 - Proxy
+- Filtrage des flux
+- Journalisation
