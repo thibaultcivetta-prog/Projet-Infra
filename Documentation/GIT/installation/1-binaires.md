@@ -13,5 +13,5 @@ Le binaire est téléchargé depuis le site officiel de Gitea puis placé dans l
 ```text
 /usr/local/bin/
 
-```text## Attribution des droits d’exécution
+```text ## Attribution des droits d’exécution
 
