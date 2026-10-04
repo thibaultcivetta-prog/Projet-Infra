@@ -6,13 +6,12 @@ Gitea fonctionne localement sur le port `3001` et Nginx est utilisé comme rever
 
 ## Architecture
 
-Nom utilisé
 Le service est accessible avec le nom :
-git.tssr.lab
+``` git.tssr.lab ```
 
 Génération du certificat
 
-Un certificat auto-signé a été créé pour git.tssr.lab.
+Un certificat auto-signé a été créé pour ``` git.tssr.lab ```
 
 ```
 sudo openssl req -x509 -nodes -days 365 \
@@ -82,6 +81,9 @@ sudo systemctl reload nginx
 ```
 
 Confiance du certificat
+
+Je récupère le certificat avec la fonction cp et je l'envoie sur mon poste Windows.
+
 Le certificat auto-signé est importé dans les autorités de certification de confiance du poste Windows.
 Git utilise le magasin de certificats Windows sans désactiver la vérification TLS.
 
