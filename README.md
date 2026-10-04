@@ -34,7 +34,7 @@ Le projet est organisé autour de 5 grands domaines.
 
 - [Sécurisation](Securisation_Reseau/README.md)
   - Nginx
-  - [pfSense](Securisation_Reseau/pfSense/README.md)
+  - [pfSense](Securisation_Reseau/PfSense/README.md)
   - TLS / HTTPS
 
 ### 3 - Cybersécurité
