@@ -1,53 +1,50 @@
-\# Mon Projet Infra
-
-
+# Mon Projet Infra
 
 Projet personnel d'administration systèmes et réseaux.
 
-
 ## Objectifs
 
-Mettre en pratique l'installation, la configuration et l'administration d'une infrastructure complète.
+Mettre en pratique l'installation, la configuration, la sécurisation et l'administration d'une infrastructure complète.
 
 ## Environnement
 
-4 grands domaines :
+Le projet est organisé autour de 4 grands domaines.
 
-### 1- Systèmes
+### 1 - Systèmes
 
 #### Windows
 
-- [Windows](Systemes/windows-server/readme.md)
-    - Windows Server 2022
-    - Active Directory
-    - DNS
-    - DHCP
-    - WDS / MDT
-    - Windows 11 Pro
-  
+- [Windows Server](Systemes/windows-server/README.md)
+  - Windows Server 2022
+  - Active Directory
+  - DNS
+  - DHCP
+  - WDS / MDT
+  - Windows 11 Pro
+
 #### Linux
 
-- [Linux](systemes/Linux/readme.md)
-    - Debian
-  
-### 2 - Securisation du réseau
+- [Linux](Systemes/Linux/README.md)
+  - Debian
 
-- [Sécurisation](Securisation_reseau/readme.md)
-    - Nginx
-    - pfSense
-    - TLS / HTTPS
+### 2 - Sécurisation du réseau
+
+- [Sécurisation](Securisation_Reseau/README.md)
+  - Nginx
+  - pfSense
+  - TLS / HTTPS
 
 ### 3 - Intelligence artificielle
- - [IA](Intelligence_artificielle/readme.md)
-    - LM studio
 
-### 4 - documentationtation
+- [Intelligence artificielle](Intelligence_artificielle/README.md)
+  - LM Studio
 
-- [documentation](documentation/readme.md)
-    - Gitea et Github
-    - WikiJS
+### 4 - Documentation
+
+- [Documentation](Documentation/README.md)
+  - Gitea et GitHub
+  - Wiki.js
 
 La documentation détaillée est réalisée dans Wiki.js.
 
 Le dépôt contient les scripts, configurations, procédures et fichiers techniques associés à ce projet.
-
