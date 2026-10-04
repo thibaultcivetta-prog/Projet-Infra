@@ -82,7 +82,11 @@ sudo systemctl reload nginx
 
 Confiance du certificat
 
-Je récupère le certificat avec la fonction cp et je l'envoie sur mon poste Windows.
+Je récupère le certificat avec la fonction 
+
+``` cp /etc/nginx/certs/git.crt ~/git.crt ```
+
+et je l'envoie sur mon poste Windows.
 
 Le certificat auto-signé est importé dans les autorités de certification de confiance du poste Windows.
 Git utilise le magasin de certificats Windows sans désactiver la vérification TLS.
