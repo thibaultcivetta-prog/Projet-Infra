@@ -15,44 +15,39 @@ Mettre en pratique l'installation, la configuration et l'administration d'une in
 
 ### 1- Systèmes
 
-#### windows
+#### Windows
 
 - [Windows](Systemes/windows-server/readme.md)
     - Windows Server 2022
     - Active Directory
     - DNS
     - DHCP
-
-- WDS / MDT
-
-- Windows 11 Pro
-
+    - WDS / MDT
+    - Windows 11 Pro
   
 #### Linux
 
-- Debian
+- [Linux] (systemes/Linux/readme.md)
+    - Debian
   
 ### 2 - Securisation du réseau
 
-- Nginx
-
-- pfSense
-
-- TLS / HTTPS
+- [Sécurisation] (Securisation_reseau/readme.md)
+    - Nginx
+    - pfSense
+    - TLS / HTTPS
 
 ### 3 - Intelligence artificielle
+ - [IA](Intelligence_artificielle/readme.md)
+    - LM studio
 
-- LM studio
+### 4 - documentationtation
 
-### 4 - Documetation
-
-- Gitea et Github
-- WikiJS
-
+- [documentation] (documentation/readme.md)
+    - Gitea et Github
+    - WikiJS
 
 La documentation détaillée est réalisée dans Wiki.js.
 
-
-
-Le dépôt contient les scripts, configurations, procédures et fichiers techniques associés au LAB.
+Le dépôt contient les scripts, configurations, procédures et fichiers techniques associés à ce projet.
 
