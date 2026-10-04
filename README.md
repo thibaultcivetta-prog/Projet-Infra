@@ -5,7 +5,6 @@
 Projet personnel d'administration systèmes et réseaux.
 
 
-
 ## Objectifs
 
 Mettre en pratique l'installation, la configuration et l'administration d'une infrastructure complète.
@@ -20,61 +19,37 @@ Mettre en pratique l'installation, la configuration et l'administration d'une in
 
 - Windows Server 2022
 
-\-.0e Directory
+- Active Directory
 
-\- DNS
+- DNS
 
-\- DHCP
+- DHCP
 
-\- WDS / MDT
+- WDS / MDT
 
+- Windows 11 Pro
+
+  
 #### Linux
 
+- Debian
+  
 ### 2 - Securisation du réseau
 
-\- Windows 11
+- Nginx
 
-\- Debian
+- pfSense
 
-\- Nginx
-
-\- Wiki.js
-
-\- Gitea
-
-\- pfSense
-
-\- TLS / HTTPS
+- TLS / HTTPS
 
 ### 3 - Intelligence artificielle
+
+- LM studio
 
 ### 4 - Documetation
 
 - Gitea et Github
 - WikiJS
-
-
-
-\## Projets
-
-
-
-\- Infrastructure Windows
-
-\- Infrastructure réseau
-
-\- Linux Debian
-
-\- pfSense
-
-\- Intelligence artificielle
-
-\- Scripts PowerShell / Bash / Python
-
-
-
-\## Documentation
-
 
 
 La documentation détaillée est réalisée dans Wiki.js.
