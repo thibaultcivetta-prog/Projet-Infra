@@ -1,8 +1,8 @@
-\# Mon Lab Infra
+\# Mon Projet Infra
 
 
 
-Laboratoire personnel d'administration systèmes et réseaux.
+Projet personnel d'administration systèmes et réseaux.
 
 
 
