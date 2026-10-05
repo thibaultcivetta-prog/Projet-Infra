@@ -56,3 +56,7 @@ Le projet est organisé autour de 5 grands domaines.
 La documentation détaillée est réalisée dans Wiki.js.
 
 Le dépôt contient les scripts, configurations, procédures et fichiers techniques associés à ce projet.
+
+Etat d'avancement :
+
+(A finaliser)
