@@ -31,7 +31,6 @@ Le compte administrateur permet notamment de :
 
 ### Sécurité
 Il conviendra de créer un deuxième utilisateur sans droit administrateur pour gérer la publication des dépots.
-
-
-7. [← Retour au parametrage](../2-parametrage.md)
-10. [← Retour](../README.md)
+[> Suivant](3-app-ini.md)
+[← Retour au parametrage](../2-parametrage.md)
+[← Retour](../README.md)
