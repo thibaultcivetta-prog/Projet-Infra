@@ -54,7 +54,9 @@ Le port 3000 est déjà utilisé par Wiki.js sur le même serveur.
 
 ### SSH_PORT
 Le port SSH présenté par Gitea est défini sur 2222.
-``` SSH_PORT = 2222 ```
+```
+SSH_PORT = 2222
+```
 
 Cela évite un conflit avec le service SSH Debian qui utilise le port 22.
 
@@ -73,6 +75,6 @@ Vérification de l’écoute sur le port 3001 :
 ```
 sudo ss -tlnp | grep 3001
 ```
-
+[Etape suivante](ports-service.md)
 [← Retour au parametrage](../2-parametrage.md)
 [← Retour](../README.md)
