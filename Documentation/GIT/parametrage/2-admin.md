@@ -20,7 +20,7 @@ Rôle du compte administrateur
 ```
 Le compte administrateur permet notamment de :
 - créer et gérer les dépôts ;
-- gérer les utilisateurs ;### 
+- gérer les utilisateurs ;
 - accéder aux paramètres du site ;
 - gérer les projets, tickets et jalons ;
 - configurer les fonctionnalités de l’instance ;
@@ -30,8 +30,6 @@ Le compte administrateur permet notamment de :
 ### Sécurité
 Il conviendra de créer un deuxième utilisateur sans droit administrateur pour gérer la publication des dépots.
 
-Résultat
-Le premier compte administrateur est opérationnel et permet de finaliser la configuration de Gitea.
 
 7. [← Retour au parametrage](../2-parametrage.md)
 10. [← Retour](../README.md)
