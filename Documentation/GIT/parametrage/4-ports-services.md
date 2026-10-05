@@ -32,6 +32,6 @@ sudo ss -tlnp | grep 3001
 Résultat
 Les ports utilisés par Gitea et les services associés sont identifiés et peuvent être contrôlés facilement.
 
-[>Suivant](dns.md)
+[>Suivant](5-dns.md)
 [← Retour au parametrage](../2-parametrage.md)
 [← Retour](../README.md)
