@@ -27,9 +27,9 @@ Le projet est organisé autour de 5 grands domaines.
 
 - [Linux](Systemes/Linux/README.md)
   - Debian
-      - Nginx / TLS
+      - Nginx / TLS  - <u>Réalisé - Doc à venir</u>
       - [GITEA / GitHub](Documentation/README.md) - installation, paramétrage, TLS et mirroring
-      - Fog
+      - Fog - <u>A faire - Doc à venir</u>
 
 ### 2 - Sécurisation du réseau
 
@@ -50,7 +50,7 @@ Le projet est organisé autour de 5 grands domaines.
 ### 5 - Documentation
 
 - [Documentation](Documentation/README.md)
-  - Gitea et GitHub
+  - [GITEA / GitHub](Documentation/README.md)
   - Wiki.js - <u>Réalisé - Doc à venir</u>
 
 La documentation détaillée est réalisée dans Wiki.js.
