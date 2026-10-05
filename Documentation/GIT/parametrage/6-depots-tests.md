@@ -12,8 +12,10 @@ Mon-projet-Infra
 
 Le dépôt est utilisé comme point central pour l’ensemble du projet d’infrastructure.
 
-```
+
 ## Contenu du dépôt
+
+```
 Le dépôt contient notamment :
 - les procédures d’installation ;
 - les fichiers de configuration ;
