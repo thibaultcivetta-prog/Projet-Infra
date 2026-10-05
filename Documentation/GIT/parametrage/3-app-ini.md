@@ -75,6 +75,6 @@ Vérification de l’écoute sur le port 3001 :
 ```
 sudo ss -tlnp | grep 3001
 ```
-[> Etape suivante](parametrage/4-ports-service.md)
+[> Etape suivante](4-ports-services.md)
 [← Retour au parametrage](../2-parametrage.md)
 [← Retour](../README.md)
