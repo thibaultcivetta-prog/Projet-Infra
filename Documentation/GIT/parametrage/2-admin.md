@@ -1,3 +1,5 @@
+# Création Admin et utilisateurs
+
 ## Objectif
 
 Lors de la première connexion à Gitea, la documentation d'installation précise que le premier utilisateur créé sera l'administrateur.
