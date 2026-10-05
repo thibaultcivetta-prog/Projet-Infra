@@ -15,12 +15,12 @@ Le projet est organisé autour de 5 grands domaines.
 #### Windows
 
 - [Windows Server](Systemes/Windows-server/README.md)
-  - Windows Server 2022
-  - Active Directory
-  - DNS
-  - DHCP
+  - Windows Server 2022 - Réalisé - Doc à venir
+  - Active Directory - Réalisé - Doc à venir
+  - DNS - Réalisé - Doc à venir
+  - DHCP - Réalisé - Doc à venir
   - [WDS / MDT](Systemes/Windows-server/wds-mdt/README.md) - Déploiement de postes WIN 11 Pro
-  - Windows 11 Pro
+  - Windows 11 Pro - Réalisé - Doc à venir
   
 
 #### Linux
@@ -28,7 +28,7 @@ Le projet est organisé autour de 5 grands domaines.
 - [Linux](Systemes/Linux/README.md)
   - Debian
       - Nginx / TLS
-      - [GITEA / GitHub](Documentation/README.md) - installation, paramétrzge, TLS et mirroring
+      - [GITEA / GitHub](Documentation/README.md) - installation, paramétrage, TLS et mirroring
       - Fog
 
 ### 2 - Sécurisation du réseau
