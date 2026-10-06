@@ -41,6 +41,11 @@ Le projet est organisé autour de 5 grands domaines.
 ### 3 - Cybersécurité
 
 - [Cybersécurité](Cybersécurite/README.md)
+    - Analyse des journaux - Syslog
+    - Sécurité AD
+    - Kali Linux
+    - Tests d'intrusion
+    - Durcissement
 
 ### 4 - Intelligence artificielle
 
