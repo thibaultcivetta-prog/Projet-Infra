@@ -2,10 +2,6 @@
 
 # Configuration du client WireGuard sous Windows
 
-## Objectif
-
-Configurer un poste Windows 11 comme client WireGuard afin d'accéder au réseau du LAB via le tunnel VPN.
-
 ## Installation
 
 Télécharger et installer l'application WireGuard pour Windows.
