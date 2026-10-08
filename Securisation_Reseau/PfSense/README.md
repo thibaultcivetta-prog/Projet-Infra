@@ -16,7 +16,7 @@ Mettre en place une passerelle sécurisée pour le LAB afin de contrôler, filtr
 
 - Règles de pare-feu
 - NAT
-- VPN
+- [VPN](VPN/paquet.md)
 - DMZ
 - Proxy
 - Filtrage des flux
