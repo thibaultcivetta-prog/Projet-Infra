@@ -20,5 +20,5 @@ Mettre en place une passerelle sécurisée pour le LAB afin de contrôler, filtr
 - DMZ
 - Proxy
 - Filtrage des flux
-- Journalisation
+- Journalisation  
 [← Retour](../README.md)
