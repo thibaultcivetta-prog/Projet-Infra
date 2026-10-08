@@ -15,11 +15,9 @@ ping 10.10.60.1
 ping 192.168.60.1
 ping 192.168.60.11
 ping 192.168.60.16
-
-EXEMPLE RESULTATS : 
-
 ```
-
+EXEMPLE RESULTATS : 
+```
 C:\Users\Thiba>IPCONFIG
 
 Configuration IP de Windows
@@ -32,7 +30,6 @@ Carte inconnue VPN_Maison :
    Adresse IPv4. . . . . . . . . . . . . .: 10.10.60.2
    Masque de sous-réseau. . . . . . . . . : 255.255.255.255
    Passerelle par défaut. . . . . . . . . :
-
 ```
 ```
 C:\Users\Thiba>ping 10.10.60.1
