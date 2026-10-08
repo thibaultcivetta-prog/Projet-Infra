@@ -20,9 +20,9 @@ L'utilisateur est identifié par une clé privée et publique.
 #### Installation et Configuration
 
 1 - [Sur PfSense, installation du Paquet Wireguard et paramétrage](VPN/1-paquet.md)  
-2 - [Configuration du client WireGuard sous Windows](VPN/2-windows.md)  
-3 - [Configuration du client WireGuard sur smartphone](VPN/3-smartphone.md)  
-4 - [Création des règles pare-feu](VPN/4-parfeu.md)  
+2 - [Création des règles pare-feu](VPN/2-tunnel.md) 
+3 - [Configuration du client WireGuard sous Windows](VPN/3-windows.md)  
+4 - [Configuration du client WireGuard sur smartphone](VPN/4-smartphone.md)  
 5 - [Tests de connectivité](VPN/5-connectivite.md)  
 6 - [Vérification des accès au réseau interne](VPN/6-verif.md)  
 7 - [Analyse éventuelle des échanges avec Wireshark](VPN/7-echange.md)  
