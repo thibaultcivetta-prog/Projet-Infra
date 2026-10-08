@@ -11,12 +11,12 @@ Mettre en place une passerelle sécurisée pour le LAB afin de contrôler, filtr
 - Configuration de la passerelle LAN
 - Intégration avec le serveur DHCP Windows
 - Tests de connectivité entre les différents équipements
+- [VPN](VPN.md)
 
 ## Fonctions de sécurité prévues
 
 - Règles de pare-feu
 - NAT
-- [VPN](VPN.md)
 - DMZ
 - Proxy
 - Filtrage des flux
