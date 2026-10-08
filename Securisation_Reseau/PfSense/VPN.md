@@ -19,7 +19,7 @@ L'utilisateur est identifié par une clé privée et publique.
 
 #### Installation et Configuration
 
-[- Sur PfSense, installation du Paquet Wireguard et paramétrage](VPN/Pfsense.md)
+- [Sur PfSense, installation du Paquet Wireguard et paramétrage](VPN/Pfsense.md)
 - Configuration du client WireGuard sous Windows
 - Configuration du client WireGuard sur smartphone
 - Création des règles pare-feu
