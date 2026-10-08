@@ -57,7 +57,7 @@ Clé publique → copiée dans le client Windows
 ```
 
 1 - [Sur PfSense, installation du Paquet Wireguard et paramétrage](1-paquet.md)  
-4 - [Configuratoin du VPN sur PFSENSE](2-tunnel.md)  
+2 - [Configuratoin du VPN sur PFSENSE](2-tunnel.md)  
 3 - [Configuration du client WireGuard sous Windows](2-windows.md)  
 4 - [Configuration du client WireGuard sur smartphone](3-smartphone.md)  
 5 - [Tests de connectivité](5-connectivite.md)  
