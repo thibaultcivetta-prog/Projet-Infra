@@ -51,7 +51,7 @@ ipconfig
 route print
 ```
 
-On doit voir apparaitre ce genre de table de routage :
+On doit voir apparaitre ce genre de table de routage avec les plages prévues dans le VPN :
 ```
 IPv4 Table de routage
 ===========================================================================
