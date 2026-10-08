@@ -1,6 +1,5 @@
 # CONFIGURATION WIREGUARD SUR WINDOWS
 
-# Configuration du client WireGuard sous Windows
 
 ## Installation
 
