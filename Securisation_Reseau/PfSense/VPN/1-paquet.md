@@ -1,5 +1,47 @@
 # INSTALLATION DU PAQUET WIREGUARD SUR PFSENSE
 
+
+## Installation du paquet
+
+Dans pfSense :
+
+`System > Package Manager > Available Packages`
+
+Rechercher :
+
+`WireGuard`
+
+Puis installer le paquet officiel WireGuard.
+
+Après installation, le menu suivant devient disponible :
+
+`VPN > WireGuard`
+
+## Création du tunnel
+
+Créer un nouveau tunnel dans :
+
+`VPN > WireGuard > Tunnels`
+
+Paramètres utilisés :
+
+```
+Description : MonVPN
+Listen Port : 51820
+Interface WireGuard : 10.10.60.1/24
+```
+
+Puis :
+```
+- génération des clés ;
+- assignation à `OPT2` ;
+- activation de l’interface ;
+- `10.10.60.1/24` ;
+- gateway `None`.
+```
+
+
+
 1 - [Sur PfSense, installation du Paquet Wireguard et paramétrage](1-paquet.md)  
 2 - [Configuration du client WireGuard sous Windows](2-windows.md)  
 3 - [Configuration du client WireGuard sur smartphone](3-smartphone.md)  
