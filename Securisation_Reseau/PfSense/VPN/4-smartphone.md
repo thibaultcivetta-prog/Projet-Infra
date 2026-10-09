@@ -8,6 +8,15 @@ Avec le VPN, la box ne sait pas où orienter à l'arrivée de l'information. Com
 
 On va paramétrer le NAT sur la Box.
 
+```
+Nom : Wireguard
+Port entrant : 51820
+Port sortant : 51820
+Protocole : UDP
+Equipement : PFSENSE
+Adresse externe : 192.168.1.51820
+```
+
 
 
 1 - [Sur PfSense, installation du Paquet Wireguard et paramétrage](1-paquet.md)  
