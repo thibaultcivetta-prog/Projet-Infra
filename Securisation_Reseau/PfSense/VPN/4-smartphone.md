@@ -1,4 +1,14 @@
-# CONFIRGURATION WIREGUARD SMARTPHONE
+# CONFIGURATION WIREGUARD SMARTPHONE
+
+## Etape préalable
+
+L'accès se fait le plus généralement de l'extérieur. Cette étape ne se destine pas qu'aux smartphones mais à tous les accès depuis l'extérieur.
+
+Avec le VPN, la box ne sait pas où orienter à l'arrivée de l'information. Comme la demande d'ouverture de connexion passe par le port 51820, on indique à la box de transférer vers PfSense.
+
+On va paramétrer le NAT sur la Box.
+
+
 
 1 - [Sur PfSense, installation du Paquet Wireguard et paramétrage](1-paquet.md)  
 2 - [Configuratoin du VPN sur PFSENSE](2-tunnel.md)  
