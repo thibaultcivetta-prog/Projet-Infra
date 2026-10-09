@@ -14,7 +14,7 @@ Port entrant : 51820
 Port sortant : 51820
 Protocole : UDP
 Equipement : PFSENSE
-Adresse externe : 192.168.1.51820
+Adresse externe : 192.168.1.18 
 ```
 
 
