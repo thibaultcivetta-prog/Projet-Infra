@@ -65,7 +65,12 @@ Sur le smartphone :
 ```
 J'enregistre.
 
-Les 2 peers me permettent de me connecter dans le réseau interne et depuis l'extérieur.
+Deux configurations de peer sont utilisées :
+
+- une avec l'adresse locale `192.168.1.18:51820` pour les tests depuis le réseau Wi-Fi interne ;
+- une avec `cvtprojetvpn.duckdns.org:51820` pour l'accès depuis l'extérieur en 4G/5G.
+
+Les deux utilisent la même clé publique pfSense et permettent de tester les deux chemins d'accès au serveur WireGuard.
 
 ## Tests
 
