@@ -39,12 +39,39 @@ https://www.duckdns.org/update?domains=cvtprojetvpn&token=[numéro du token]ip=%
 ## Paramétrage de pfSense
 Le tunnel ayant déjà été configuré dans l'étape précédente, il nous reste à créer un nouveau "peer" sur pfsense.
 
-
+La principale information dont j'ai besoin c'est la clé publique de Wireguard du smartphone que j'ai récupérée et je sélectionne le tunnel vpn, j'indique l'adresse ip qui sera utilisée puis j'enregistre.
 
 ## Paramétrage du smartphone
 
+Sur le smartphone :
+
+ J'indique les paramètres suivants :
+ ```
+ interface
+ Nom : pfsense
+ Clé publique : [clé publique du smartphone]
+  Adresse : 10.10.60.3
+
+ peer1
+ Clé publique  : [clé publique de pfsense]
+ adresses autorisées : 0.0.0.0/0
+ Point de terminaison : 192.168.1.18:51820
+
+ peer2
+ clé publique : [clé publique de pfsense]
+ adresses autorisées 0.0.0.0/0
+ point de terminaison : cvtprojetvpn.duckdns.org
+
+```
+J'enregistre.
+
+Les 2 peers me permettent de me connecter dans le réseau interne et depuis l'extérieur.
+
 ## Tests
 
+Je teste les accès en 4/5G et depuis le réseau interne. 
+
+Je peux accéder à des sites extérieurs, à Gitea et à WikiJs.
 
 
 
