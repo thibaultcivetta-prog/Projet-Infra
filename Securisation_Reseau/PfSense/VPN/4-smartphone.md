@@ -1,12 +1,15 @@
 # CONFIGURATION WIREGUARD SMARTPHONE
 
-## Etape préalable
+## Etapes préalables
 
-L'accès se fait le plus généralement de l'extérieur. Cette étape ne se destine pas qu'aux smartphones mais à tous les accès depuis l'extérieur.
+### Paramétrage de la box
 
-Avec le VPN, la box ne sait pas où orienter à l'arrivée de l'information. Comme la demande d'ouverture de connexion passe par le port 51820, on indique à la box de transférer vers PfSense.
+L'accès au VPN se fait généralement depuis l'extérieur du réseau local.  
+Cette étape ne concerne donc pas uniquement les smartphones, mais l'ensemble des connexions externes.
 
-On va paramétrer le NAT sur la Box.
+Lorsqu'une connexion WireGuard arrive sur la box Internet via le port UDP 51820, celle-ci doit savoir vers quel équipement du réseau local transmettre le trafic.
+
+Une règle NAT/PAT est donc créée afin de rediriger le port UDP 51820 vers l'interface WAN de pfSense.
 
 ```
 Nom : Wireguard
@@ -16,6 +19,32 @@ Protocole : UDP
 Equipement : PFSENSE
 Adresse externe : 192.168.1.18 
 ```
+
+### Paramétrage DDNS pour un accès de l'extérieur
+
+De l'extérieur, le Smartphone ou un PC a besoin de connaitre l'adresse publique du réseau.
+
+La box est susceptible d'avoir une option "adresse publique fixe" ou alors on peut utiliser un servie tel que duckdns qui nous permet d'avoir un lien direct entre l'adresse public et l'adresse duckdns.
+
+J'ai créé un compte duckdns, créé un domaine ici `cvtprojetvpn`. Il va me donner un tocken.
+
+Je vais sur pfsense>services>dynamicdns puis dans les profils, je cherche `duckdns`, comme il n'y est pas `custom`.
+
+J'indique sur l'url de mise à jour :
+
+```
+https://www.duckdns.org/update?domains=cvtprojetvpn&token=[numéro du token]ip=%IP%
+```
+
+## Paramétrage de pfSense
+Le tunnel ayant déjà été configuré dans l'étape précédente, il nous reste à créer un nouveau "peer" sur pfsense.
+
+
+
+## Paramétrage du smartphone
+
+## Tests
+
 
 
 
