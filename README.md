@@ -22,7 +22,9 @@ Mettre en pratique l'installation, la configuration, la sécurisation et l'admin
 | RADIUS / NPS | ⚪ À faire | ❌ |
 
 **Légende :**  
-🟢 Terminé · 🟡 En cours · ⚪ À faire## Environnement
+🟢 Terminé · 🟡 En cours · ⚪ À faire
+
+## Environnement
 
 Le projet est organisé autour de 5 grands domaines.
 
@@ -31,28 +33,28 @@ Le projet est organisé autour de 5 grands domaines.
 #### Windows
 
 - [Windows Server](Systemes/Windows-server/README.md)
-  - Windows Server 2022 - <u>Réalisé - Doc à venir</u>
+  - Windows Server 2022
   - [Active Directory](Systemes/Windows-server/Active-Directory/README.md) 
-  - [DNS](Systemes/Windows-server/DNS/README.md) - <u>Réalisé - Doc à venir</u>
-  - [DHCP](Systemes/Windows-server/DHCP/README.md) - <u>Réalisé - Doc à venir</u>
-  - [WDS / MDT](Systemes/Windows-server/wds-mdt/README.md) - Déploiement de postes WIN 11 Pro  - <u>Réalisé - A compléter</u>
-  - Windows 11 Pro - <u>Réalisé - Doc à venir</u>
+  - [DNS](Systemes/Windows-server/DNS/README.md)
+  - [DHCP](Systemes/Windows-server/DHCP/README.md)
+  - [WDS / MDT](Systemes/Windows-server/wds-mdt/README.md)
+  - Windows 11 Pro
   
 
 #### Linux
 
 - [Linux](Systemes/Linux/README.md)
   - Debian
-      - Nginx / TLS  - <u>Réalisé - Doc à venir</u>
+      - Nginx / TLS
       - [GITEA / GitHub](Documentation/README.md) - installation, paramétrage, TLS et mirroring
-      - Fog - <u>A faire - Doc à venir</u>
+      - Fog
 
 ### 2 - Sécurisation du réseau
 
 - [Sécurisation](Securisation_Reseau/README.md)
-  - Nginx - <u>Réalisé - Doc à venir</u>
-  - [pfSense](Securisation_Reseau/PfSense/README.md)  - <u>En cours - A compléter</u>
-  - TLS / HTTPS  - <u>Réalisé - Doc à venir</u>
+  - Nginx
+  - [pfSense](Securisation_Reseau/PfSense/README.md) 
+  - TLS / HTTPS
 
 ### 3 - Cybersécurité
 
@@ -66,13 +68,13 @@ Le projet est organisé autour de 5 grands domaines.
 ### 4 - Intelligence artificielle
 
 - [Intelligence artificielle](Intelligence_artificielle/README.md)
-  - LM Studio - <u>Réalisé - Doc à venir</u>
+  - LM Studio
 
 ### 5 - Documentation
 
 - [Documentation](Documentation/README.md)
   - [GITEA / GitHub](Documentation/README.md)
-  - Wiki.js - <u>Réalisé - Doc à venir</u>
+  - Wiki.js 
 
 La documentation détaillée est réalisée dans Wiki.js.
 
