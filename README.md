@@ -6,7 +6,23 @@ Projet personnel d'administration systèmes et réseaux.
 
 Mettre en pratique l'installation, la configuration, la sécurisation et l'administration d'une infrastructure complète.
 
-## Environnement
+## État d'avancement
+
+| Projet | Statut | Documentation |
+|---|---|---|
+| Active Directory | 🟢 Terminé | ✅ |
+| DNS / DHCP | 🟢 Terminé | ✅ |
+| WDS / MDT | 🟢 Terminé | 🟡 À compléter |
+| Debian | 🟢 Terminé | ✅ |
+| Gitea / GitHub | 🟢 Terminé | ✅ |
+| Nginx / HTTPS / TLS | 🟡 En cours | 🟡 |
+| pfSense | 🟡 En cours | 🟡 |
+| WireGuard VPN | 🟡 En cours | 🟡 |
+| FOG | ⚪ À faire | ❌ |
+| RADIUS / NPS | ⚪ À faire | ❌ |
+
+**Légende :**  
+🟢 Terminé · 🟡 En cours · ⚪ À faire## Environnement
 
 Le projet est organisé autour de 5 grands domaines.
 
@@ -16,7 +32,7 @@ Le projet est organisé autour de 5 grands domaines.
 
 - [Windows Server](Systemes/Windows-server/README.md)
   - Windows Server 2022 - <u>Réalisé - Doc à venir</u>
-  - [Active Directory](Systemes/Windows-server/Active-Directory/README.md) - <u>Réalisé - Doc à venir</u>
+  - [Active Directory](Systemes/Windows-server/Active-Directory/README.md) 
   - [DNS](Systemes/Windows-server/DNS/README.md) - <u>Réalisé - Doc à venir</u>
   - [DHCP](Systemes/Windows-server/DHCP/README.md) - <u>Réalisé - Doc à venir</u>
   - [WDS / MDT](Systemes/Windows-server/wds-mdt/README.md) - Déploiement de postes WIN 11 Pro  - <u>Réalisé - A compléter</u>
