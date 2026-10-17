@@ -8,21 +8,26 @@ Mettre en pratique l'installation, la configuration, la sécurisation et l'admin
 
 ## État d'avancement
 
+## État d'avancement
+
 | Projet | Statut | Documentation |
 |---|---|---|
-| Active Directory | 🟢 Terminé | ✅ |
-| DNS / DHCP | 🟢 Terminé | ✅ |
+| Windows Server 2022 | 🟢 Terminé | 🟡 À compléter |
+| Active Directory | 🟢 Terminé | 🟡 À compléter |
+| DNS | 🟢 Terminé | 🟡 À compléter |
+| DHCP | 🟢 Terminé | 🟡 À compléter |
 | WDS / MDT | 🟢 Terminé | 🟡 À compléter |
-| Debian | 🟢 Terminé | ✅ |
-| Gitea / GitHub | 🟢 Terminé | ✅ |
-| Nginx / HTTPS / TLS | 🟡 En cours | 🟡 |
-| pfSense | 🟡 En cours | 🟡 |
-| WireGuard VPN | 🟡 En cours | 🟡 |
-| FOG | ⚪ À faire | ❌ |
-| RADIUS / NPS | ⚪ À faire | ❌ |
+| Windows 11 Pro | 🟢 Terminé | 🟡 À compléter |
+| Debian | 🟢 Terminé | 🟢 Disponible |
+| Gitea / GitHub | 🟢 Terminé | 🟢 Disponible |
+| Nginx / TLS | 🟢 Fonctionnel | 🟡 À compléter |
+| pfSense | 🟡 En cours | 🟡 À compléter |
+| WireGuard VPN | 🟡 En cours | 🟡 À compléter |
+| Wiki.js | 🟢 Terminé | 🟡 À compléter |
+| LM Studio | 🟢 Terminé | 🟡 À compléter |
+| FOG | ⚪ À faire | ⚪ À faire |
 
-**Légende :**  
-🟢 Terminé · 🟡 En cours · ⚪ À faire
+**Légende :** 🟢 Terminé · 🟡 En cours / à compléter · ⚪ À faire
 
 ## Environnement
 
