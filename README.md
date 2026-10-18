@@ -8,25 +8,6 @@ Mettre en pratique l'installation, la configuration, la sécurisation et l'admin
 
 ## État d'avancement
 
-## État d'avancement
-
-| Projet | Statut | Documentation |
-|---|---|---|
-| Windows Server 2022 | 🟢 Terminé | 🟡 À compléter |
-| Active Directory | 🟢 Terminé | 🟡 À compléter |
-| DNS | 🟢 Terminé | 🟡 À compléter |
-| DHCP | 🟢 Terminé | 🟡 À compléter |
-| WDS / MDT | 🟢 Terminé | 🟡 À compléter |
-| Windows 11 Pro | 🟢 Terminé | 🟡 À compléter |
-| Debian | 🟢 Terminé | 🟢 Disponible |
-| Gitea / GitHub | 🟢 Terminé | 🟢 Disponible |
-| Nginx / TLS | 🟢 Fonctionnel | 🟡 À compléter |
-| pfSense | 🟡 En cours | 🟡 À compléter |
-| WireGuard VPN | 🟡 En cours | 🟡 À compléter |
-| Wiki.js | 🟢 Terminé | 🟡 À compléter |
-| LM Studio | 🟢 Terminé | 🟡 À compléter |
-| FOG | ⚪ À faire | ⚪ À faire |
-
 **Légende :** 🟢 Terminé · 🟡 En cours / à compléter · ⚪ À faire
 
 ## Environnement
@@ -42,7 +23,7 @@ Le projet est organisé autour de 5 grands domaines.
 | Projet | Statut | Documentation |
 |---|---|---|
 | Windows Server 2022 | 🟢 Terminé | 🟡 À compléter |
-| Active Directory | 🟢 Terminé | 🟡 À compléter |
+| [Active Directory](Systemes/Windows-server/Active-Directory/README.md) | 🟢 Terminé | 🟡 À compléter |
 | DNS | 🟢 Terminé | 🟡 À compléter |
 | DHCP | 🟢 Terminé | 🟡 À compléter |
 | WDS / MDT | 🟢 Terminé | 🟡 À compléter |
