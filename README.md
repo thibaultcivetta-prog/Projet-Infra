@@ -39,7 +39,15 @@ Le projet est organisé autour de 5 grands domaines.
 
 - [Windows Server](Systemes/Windows-server/README.md)
 
+| Projet | Statut | Documentation |
+|---|---|---|
 | Windows Server 2022 | 🟢 Terminé | 🟡 À compléter |
+| Active Directory | 🟢 Terminé | 🟡 À compléter |
+| DNS | 🟢 Terminé | 🟡 À compléter |
+| DHCP | 🟢 Terminé | 🟡 À compléter |
+| WDS / MDT | 🟢 Terminé | 🟡 À compléter |
+| Windows 11 Pro | 🟢 Terminé | 🟡 À compléter |
+
   - [Active Directory](Systemes/Windows-server/Active-Directory/README.md) 
   - [DNS](Systemes/Windows-server/DNS/README.md)
   - [DHCP](Systemes/Windows-server/DHCP/README.md)
