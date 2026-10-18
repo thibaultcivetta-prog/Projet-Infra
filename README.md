@@ -63,12 +63,25 @@ Le projet est organisé autour de 5 grands domaines.
       - [GITEA / GitHub](Documentation/README.md) - installation, paramétrage, TLS et mirroring
       - Fog
 
+| Projet | Statut | Documentation |
+|---|---|---|
+| Debian | 🟢 Terminé | 🟢 Disponible |
+| Gitea / GitHub | 🟢 Terminé | 🟢 Disponible |
+| Nginx / TLS | 🟢 Fonctionnel | 🟡 À compléter |
+| FOG | ⚪ À faire | ⚪ À faire |
+
 ### 2 - Sécurisation du réseau
 
 - [Sécurisation](Securisation_Reseau/README.md)
   - Nginx
   - [pfSense](Securisation_Reseau/PfSense/README.md) 
   - TLS / HTTPS
+
+  | Projet | Statut | Documentation |
+|---|---|---|
+| Nginx / TLS | 🟢 Fonctionnel | 🟡 À compléter |
+| pfSense | 🟡 En cours | 🟡 À compléter |
+| WireGuard VPN | 🟡 En cours | 🟡 À compléter |
 
 ### 3 - Cybersécurité
 
@@ -82,13 +95,20 @@ Le projet est organisé autour de 5 grands domaines.
 ### 4 - Intelligence artificielle
 
 - [Intelligence artificielle](Intelligence_artificielle/README.md)
-  - LM Studio
+
+| Projet | Statut | Documentation |
+|---|---|---|
+| LM Studio | 🟢 Terminé | 🟡 À compléter |
 
 ### 5 - Documentation
 
 - [Documentation](Documentation/README.md)
   - [GITEA / GitHub](Documentation/README.md)
-  - Wiki.js 
+  - Wiki.js
+| Projet | Statut | Documentation |
+|---|---|---|
+| Gitea / GitHub | 🟢 Terminé | 🟢 Disponible |
+| Wiki.js | 🟢 Terminé | 🟡 À compléter |
 
 La documentation détaillée est réalisée dans Wiki.js.
 
