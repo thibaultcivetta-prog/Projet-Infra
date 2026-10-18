@@ -6,14 +6,14 @@ Projet personnel d'administration systèmes et réseaux.
 
 Mettre en pratique l'installation, la configuration, la sécurisation et l'administration d'une infrastructure complète.
 
-## État d'avancement
+## Architecture du projet
 
 [Schéma 1 : Architecture générale de l’infrastructure](screenshot/Schema.jpg) (Image)  
 [Schéma 2 : Topologie réseau et segmentation VLAN](screenshot/topologie.jpg) (Image)
 
 **Légende :** 🟢 Terminé · 🟡 En cours / à compléter · ⚪ À faire
 
-## Environnement
+## État d'avancement & Environnement
 
 Le projet est organisé autour de 5 grands domaines.
 
@@ -23,14 +23,14 @@ Le projet est organisé autour de 5 grands domaines.
 
 - [Windows Server](Systemes/Windows-server/README.md)
 
-| Projet | Statut | Documentation |
-|---|---|---|
-| Windows Server 2022 | 🟢 Terminé | 🟡 À compléter |
-| [Active Directory](Systemes/Windows-server/Active-Directory/README.md) | 🟢 Terminé | 🟡 À compléter |
-| [DNS](Systemes/Windows-server/DNS/README.md) | 🟢 Terminé | 🟡 À compléter |
-| [DHCP](Systemes/Windows-server/DHCP/README.md) | 🟢 Terminé | 🟡 À compléter |
-| [WDS / MDT](Systemes/Windows-server/wds-mdt/README.md) | 🟢 Terminé | 🟡 À compléter |
-| Windows 11 Pro | 🟢 Terminé | 🟡 À compléter |
+| Projet | Statut | Documentation | Echéance |
+|---|---|---| ---|
+| Windows Server 2022 | 🟢 Terminé | 🟡 À compléter | |
+| [Active Directory](Systemes/Windows-server/Active-Directory/README.md) | 🟢 Terminé | 🟡 À compléter |  |
+| [DNS](Systemes/Windows-server/DNS/README.md) | 🟢 Terminé | 🟡 À compléter | |
+| [DHCP](Systemes/Windows-server/DHCP/README.md) | 🟢 Terminé | 🟡 À compléter | |
+| [WDS / MDT](Systemes/Windows-server/wds-mdt/README.md) | 🟢 Terminé | 🟡 À compléter | |
+| Windows 11 Pro | 🟢 Terminé | 🟡 À compléter | |
 
 
 #### Linux
