@@ -37,8 +37,8 @@ Le projet est organisé autour de 5 grands domaines.
 
 - [Linux](Systemes/Linux/README.md)
 
-| Projet | Statut | Documentation |
-|---|---|---|
+| Projet | Statut | Documentation | Echéance |
+|---|---|---| ---|
 | Debian | 🟢 Terminé | 🟢 Disponible | |
 | [GITEA / GitHub](Documentation/README.md) | 🟢 Terminé | 🟢 Disponible | |
 | Nginx / TLS | 🟢 Fonctionnel | 🟡 À compléter | |
@@ -48,8 +48,8 @@ Le projet est organisé autour de 5 grands domaines.
 
 - [Sécurisation](Securisation_Reseau/README.md)
 
-| Projet | Statut | Documentation |
-|---|---|---|
+| Projet | Statut | Documentation | Echéance |
+|---|---|---| ---|
 | Nginx / TLS | 🟢 Fonctionnel | 🟡 À compléter | |
 | [pfSense](Securisation_Reseau/PfSense/README.md)  | 🟡 En cours | 🟡 À compléter | |
 | WireGuard VPN | 🟡 En cours | 🟡 À compléter | |
@@ -58,8 +58,8 @@ Le projet est organisé autour de 5 grands domaines.
 
 - [Cybersécurité](Cybersecurite/README.md)
 
-| Projet | Statut | Documentation |
-|---|---|---|
+| Projet | Statut | Documentation | Echéance |
+|---|---|---| ---|
 | Analyse des journaux - Syslog | ⚪ À faire | ⚪ À faire | |
 | Sécurité AD |⚪ À faire | ⚪ À faire | |
 | Kali Linux | ⚪ À faire | ⚪ À faire | |
@@ -70,8 +70,8 @@ Le projet est organisé autour de 5 grands domaines.
 
 - [Intelligence artificielle](Intelligence_artificielle/README.md)
 
-| Projet | Statut | Documentation |
-|---|---|---|
+| Projet | Statut | Documentation | Echéance |
+|---|---|---| ---|
 | LM Studio | 🟢 Terminé | 🟡 À compléter | |
 
 ### 5 - Documentation
