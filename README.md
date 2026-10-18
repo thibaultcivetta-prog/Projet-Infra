@@ -38,7 +38,7 @@ Le projet est organisé autour de 5 grands domaines.
 #### Windows
 
 - [Windows Server](Systemes/Windows-server/README.md)
-  - Windows Server 2022
+  | Windows Server 2022 | 🟢 Terminé | 🟡 À compléter |
   - [Active Directory](Systemes/Windows-server/Active-Directory/README.md) 
   - [DNS](Systemes/Windows-server/DNS/README.md)
   - [DHCP](Systemes/Windows-server/DHCP/README.md)
