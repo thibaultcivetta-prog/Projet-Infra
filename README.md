@@ -39,10 +39,10 @@ Le projet est organisé autour de 5 grands domaines.
 
 | Projet | Statut | Documentation |
 |---|---|---|
-| Debian | 🟢 Terminé | 🟢 Disponible |
-| [GITEA / GitHub](Documentation/README.md) | 🟢 Terminé | 🟢 Disponible |
-| Nginx / TLS | 🟢 Fonctionnel | 🟡 À compléter |
-| FOG | ⚪ À faire | ⚪ À faire |
+| Debian | 🟢 Terminé | 🟢 Disponible | |
+| [GITEA / GitHub](Documentation/README.md) | 🟢 Terminé | 🟢 Disponible | |
+| Nginx / TLS | 🟢 Fonctionnel | 🟡 À compléter | |
+| FOG | ⚪ À faire | ⚪ À faire | |
 
 ### 2 - Sécurisation du réseau
 
@@ -50,9 +50,9 @@ Le projet est organisé autour de 5 grands domaines.
 
 | Projet | Statut | Documentation |
 |---|---|---|
-| Nginx / TLS | 🟢 Fonctionnel | 🟡 À compléter |
-| [pfSense](Securisation_Reseau/PfSense/README.md)  | 🟡 En cours | 🟡 À compléter |
-| WireGuard VPN | 🟡 En cours | 🟡 À compléter |
+| Nginx / TLS | 🟢 Fonctionnel | 🟡 À compléter | |
+| [pfSense](Securisation_Reseau/PfSense/README.md)  | 🟡 En cours | 🟡 À compléter | |
+| WireGuard VPN | 🟡 En cours | 🟡 À compléter | |
 
 ### 3 - Cybersécurité
 
@@ -60,11 +60,11 @@ Le projet est organisé autour de 5 grands domaines.
 
 | Projet | Statut | Documentation |
 |---|---|---|
-| Analyse des journaux - Syslog | ⚪ À faire | ⚪ À faire |
-| Sécurité AD |⚪ À faire | ⚪ À faire |
-| Kali Linux | ⚪ À faire | ⚪ À faire |
-| Tests d'intrusion | ⚪ À faire | ⚪ À faire |
-| Durcissement | ⚪ À faire | ⚪ À faire |
+| Analyse des journaux - Syslog | ⚪ À faire | ⚪ À faire | |
+| Sécurité AD |⚪ À faire | ⚪ À faire | |
+| Kali Linux | ⚪ À faire | ⚪ À faire | |
+| Tests d'intrusion | ⚪ À faire | ⚪ À faire | |
+| Durcissement | ⚪ À faire | ⚪ À faire | |
 
 ### 4 - Intelligence artificielle
 
@@ -72,7 +72,7 @@ Le projet est organisé autour de 5 grands domaines.
 
 | Projet | Statut | Documentation |
 |---|---|---|
-| LM Studio | 🟢 Terminé | 🟡 À compléter |
+| LM Studio | 🟢 Terminé | 🟡 À compléter | |
 
 ### 5 - Documentation
 
@@ -80,8 +80,8 @@ Le projet est organisé autour de 5 grands domaines.
 
 | Projet | Statut | Documentation |
 |---|---|---|
-| [GITEA / GitHub](Documentation/README.md)| 🟢 Terminé | 🟢 Disponible |
-| Wiki.js | 🟢 Terminé | 🟡 À compléter |
+| [GITEA / GitHub](Documentation/README.md)| 🟢 Terminé | 🟢 Disponible | |
+| Wiki.js | 🟢 Terminé | 🟡 À compléter | |
 
 La documentation détaillée est réalisée dans Wiki.js.
 
