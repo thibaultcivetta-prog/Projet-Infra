@@ -8,6 +8,9 @@ Mettre en pratique l'installation, la configuration, la sécurisation et l'admin
 
 ## État d'avancement
 
+[Schéma 1 : Architecture générale de l’infrastructure](sreenshot/schema.jpg) (Image)
+[Schéma 2 : Topologie réseau et segmentation VLAN](screenshot/Topologie.jpg) (Image)
+
 **Légende :** 🟢 Terminé · 🟡 En cours / à compléter · ⚪ À faire
 
 ## Environnement
@@ -43,7 +46,7 @@ Le projet est organisé autour de 5 grands domaines.
 
 ### 2 - Sécurisation du réseau
 
-[Sécurisation](Securisation_Reseau/README.md)
+- [Sécurisation](Securisation_Reseau/README.md)
 
 | Projet | Statut | Documentation |
 |---|---|---|
@@ -72,6 +75,8 @@ Le projet est organisé autour de 5 grands domaines.
 | LM Studio | 🟢 Terminé | 🟡 À compléter |
 
 ### 5 - Documentation
+
+- [Documentation](Documentation/README.md)
 
 | Projet | Statut | Documentation |
 |---|---|---|
