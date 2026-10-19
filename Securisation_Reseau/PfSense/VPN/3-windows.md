@@ -41,8 +41,8 @@ Dans cette configuration :
 10.10.60.0/24
 192.168.60.0/24
 ```
-**[exemple de fenêtre Wireguard fonctionnelle sur Windows](Screenshots/vpnwindows.jpg)**  
-*les clés utilisées ici sont présentées à titre d'exemple*
+Image : **[exemple de fenêtre Wireguard fonctionnelle sur Windows](Screenshots/vpnwindows.jpg)**  
+*les clés utilisées ici sont fictives et présentées à titre d'exemple*
 
 seuls le réseau VPN et le réseau du LAB sont routés dans le tunnel.
 La connexion Internet classique du poste continue à utiliser sa passerelle habituelle.
