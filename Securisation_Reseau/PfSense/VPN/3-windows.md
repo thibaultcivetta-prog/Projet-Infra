@@ -55,7 +55,7 @@ route print
 
 On doit voir apparaitre ce genre de table de routage avec les plages prévues dans le VPN :
 
-**Image : [Exemple d'écran](Screenshots/VPNWindows2.jpg)**
+!**Image : [Exemple d'écran](Screenshots/VPNWindows2.jpg)**
 
 -----
 
