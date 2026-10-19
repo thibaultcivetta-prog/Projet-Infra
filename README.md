@@ -52,7 +52,7 @@ Le projet est organisé autour de 5 grands domaines.
 |---|---|---| ---| 
 | Nginx / TLS | 🟢 Fonctionnel | 🟡 À compléter | Fin Oct 26 |
 | [pfSense](Securisation_Reseau/PfSense/README.md)  | 🟡 En cours | 🟡 À compléter | |
-| [WireGuard VPN](Securisation_Reseau/PfSense/VPN/README.md) | 🟢 Terminé | 🟢 Disponible |  |
+| [WireGuard VPN](Securisation_Reseau/PfSense/VPN.md) | 🟢 Terminé | 🟢 Disponible |  |
 
 ### 3 - Cybersécurité
 
