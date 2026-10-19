@@ -15,7 +15,7 @@ La clé publique du poste est copiée dans le peer correspondant sur pfSense.
 
 Exemple de configuration utilisée :
 
-Image : !**[exemple de fenêtre Wireguard fonctionnelle sur Windows](Screenshots/vpnwindows.jpg)**  
+Image : **![exemple de fenêtre Wireguard fonctionnelle sur Windows](Screenshots/vpnwindows.jpg)**  
 *les clés utilisées ici sont fictives et présentées à titre d'exemple*
 
 
