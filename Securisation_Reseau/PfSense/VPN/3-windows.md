@@ -15,16 +15,9 @@ La clé publique du poste est copiée dans le peer correspondant sur pfSense.
 
 Exemple de configuration utilisée :
 
-```
-[Interface]
-PrivateKey = <clé privée du PC>
-Address = 10.10.60.2/24
-```
-```[Peer]
-PublicKey = <clé publique pfSense>
-AllowedIPs = 10.10.60.0/24, 192.168.60.0/24
-Endpoint = 192.168.1.18:51820
-```
+Image : !**[exemple de fenêtre Wireguard fonctionnelle sur Windows](Screenshots/vpnwindows.jpg)**  
+*les clés utilisées ici sont fictives et présentées à titre d'exemple*
+
 
 Paramètres
 ```
@@ -41,8 +34,7 @@ Dans cette configuration :
 10.10.60.0/24
 192.168.60.0/24
 ```
-Image : **[exemple de fenêtre Wireguard fonctionnelle sur Windows](Screenshots/vpnwindows.jpg)**  
-*les clés utilisées ici sont fictives et présentées à titre d'exemple*
+
 
 seuls le réseau VPN et le réseau du LAB sont routés dans le tunnel.
 La connexion Internet classique du poste continue à utiliser sa passerelle habituelle.
