@@ -8,8 +8,10 @@ Mettre en pratique l'installation, la configuration, la sécurisation et l'admin
 
 ## Architecture du projet
 
-[Schéma 1 : Architecture générale de l’infrastructure](screenshot/Schema.jpg) (Image)  
-[Schéma 2 : Topologie réseau et segmentation VLAN](screenshot/topologie.jpg) (Image)
+**Schéma 1 : Architecture générale de l’infrastructure**  
+![Schéma 1 : Architecture générale de l’infrastructure](screenshot/Schema.jpg) (Image)  
+Schéma 2 : Topologie réseau et segmentation VLAN
+![Schéma 2 : Topologie réseau et segmentation VLAN](screenshot/topologie.jpg) (Image)
 
 **Légende :** 🟢 Terminé · 🟡 En cours / à compléter · ⚪ À faire
 
