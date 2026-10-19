@@ -55,7 +55,9 @@ route print
 
 On doit voir apparaitre ce genre de table de routage avec les plages prévues dans le VPN :
 
-Image : [Exemple d'écran](Screenshots/VPNWindows2.jpg)
+**Image : [Exemple d'écran](Screenshots/VPNWindows2.jpg)**
+
+-----
 
 1 - [Sur PfSense, installation du Paquet Wireguard et paramétrage](1-paquet.md)  
 2 - [Configuratoin du VPN sur PFSENSE](2-tunnel.md)  
